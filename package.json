@@ -1,0 +1,19 @@
+{
+  "name": "ncov2019-br",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igoralves1/ncov2019-Br.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igoralves1/ncov2019-Br/issues"
+  },
+  "homepage": "https://github.com/igoralves1/ncov2019-Br#readme"
+}
